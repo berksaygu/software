@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T19:44:59.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.75" etag="8F3dsjbsOz1Jq1xAb5rw" version="14.7.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-04-25T19:45:50.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.75" etag="f0BZAi7dy3tS4l9VwhS_" version="14.7.0" type="github" pages="7">
   <diagram id="nZLM94ovh3mV7z_dbmCm" name="Registiration">
     <mxGraphModel dx="2253" dy="972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
@@ -1778,7 +1778,7 @@
             <mxPoint x="904" y="2650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e5j0b0DerzPkpNbM-eaU-13" value="Trainer Program" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;" vertex="1" parent="e5j0b0DerzPkpNbM-eaU-1">
+        <mxCell id="e5j0b0DerzPkpNbM-eaU-13" value="Trainer Page" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=0;" vertex="1" parent="e5j0b0DerzPkpNbM-eaU-1">
           <mxGeometry x="684" y="2670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e5j0b0DerzPkpNbM-eaU-14" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;" edge="1" parent="e5j0b0DerzPkpNbM-eaU-1">
